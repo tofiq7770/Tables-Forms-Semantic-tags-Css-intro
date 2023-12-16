@@ -1,0 +1,53 @@
+.header header {
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    background-color: #8B451F;
+}
+
+.navbar ul {
+    list-style-type: none;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #406A21;
+    background-color: #d1a262;
+}
+
+.navbar ul li {
+
+    display: inline;
+    font-size: large;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.navbar {
+
+    background-color: #d1a262;
+}
+
+.down-nav {
+    margin-left: 350px;
+    padding-bottom: 100px;
+}
+
+.color-red {
+    color: #5f1d1b;
+}
+
+li {
+    margin: 10px 10px;
+}
+
+.taskthird {
+    margin-left: 700px;
+    
+}
+.taskthird a:link{
+    color: red;
+}
+.taskthird a:visited{
+    color: black;
+}

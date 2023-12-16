@@ -1,0 +1,53 @@
+.header header {
+    text-align: center;
+}
+
+.header header h1 {
+    font-size: bold;
+}
+
+.main-header {
+    margin-right: 730px;
+}
+
+
+.photo {
+    width: 250px;
+    height: 150px;
+    margin-right: 700px;
+}
+
+.paragraph {
+    width: 900px;
+    padding: 0;
+    font-size: x-large;
+    font-size: bold;
+    margin-left: 290px;
+    text-align: left;
+}
+
+.link {
+    margin-right: 700px;
+    font-size: larger;
+}
+
+.link a:active {
+    color: red;
+}
+
+.link a:link {
+    color: black;
+}
+
+.link a:visited {
+    color: black;
+}
+.taskseccond {
+    margin-left: 290px;
+}
+.taskseccond a:link{
+    color: red;
+}
+.taskseccond a:visited{
+    color: black;
+}
